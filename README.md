@@ -1,9 +1,10 @@
 <h2> Hi, I'm Abhi!</h2>
-<p><em>Lead Software Engineer at <a href="https://www.onerahealth.com/">Onera Health(Medical Startup).</a>
-  
-I enjoy designing and building cloud native software solutions. </p>
 
-**Daily Tech Stack**
+Lead Software Engineer [Onera Health (Medical Startup).](https://www.onerahealth.com/)
+
+I enjoy designing and building cloud native software solutions.
+
+**Daily Tech Stack  :man_technologist:**
 
 - IaC - Terraform
 
@@ -15,19 +16,19 @@ I enjoy designing and building cloud native software solutions. </p>
 
 - Programming Languages: Python 3.8, Go 1.15, YAML, HCL(Hashicorp), Bash
 
-  
-**Development Environment**
+**Development Environment :hammer:**
 
-* OS: Ubuntu Focal Fossa, WSL2(for prototyping)
-* Editor: VS Code, Typora(Markdown)
-* Terminal: Terminator
+- OS: Ubuntu Focal Fossa, WSL2(for prototyping)
 
+- Editor: VS Code, [Typora - Markdown](https://typora.io/)
+
+- Terminal: [Terminator](https://terminator-gtk3.readthedocs.io/en/latest/#)
 
 I use Github to host my hobby projects(mostly private for the moment).
 
-![Abhi's GitHub stats](https://github-readme-stats.vercel.app/api?username=diabhey&count_private=true&show_icons=true&theme=radical)   
+![Abhi's GitHub stats](https://github-readme-stats.vercel.app/api?username=diabhey&count_private=true&show_icons=true&theme=radical)
 
-**Social Media**
-* [![Linkedin: abhi](https://img.shields.io/badge/-abhimanyuselvan-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/abhimanyuselvan/)](https://www.linkedin.com/in/abhimanyuselvan/)
-* [![Twitter: diabhey](https://img.shields.io/twitter/follow/diabhey?style=social)](https://twitter.com/diabhey)
-* [![GitHub diabhey](https://img.shields.io/github/followers/diabhey?label=follow&style=social)](https://github.com/diabhey)
+**You can find me on :earth_asia:**
+- [![Linkedin: abhi](https://img.shields.io/badge/-abhimanyuselvan-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/abhimanyuselvan/)](https://www.linkedin.com/in/abhimanyuselvan/)
+- [![Twitter: diabhey](https://img.shields.io/twitter/follow/diabhey?style=social)](https://twitter.com/diabhey)
+- [![GitHub diabhey](https://img.shields.io/github/followers/diabhey?label=follow&style=social)](https://github.com/diabhey)
