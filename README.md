@@ -5,17 +5,8 @@ I enjoy designing and building cloud native software solutions. </p>
 
 **Daily Tech Stack**
 
-- IaC - Terraform
+<img src="tech-stack.png" alt="drawing" width="500"/>
 
-- Cloud - Amazon Web Services(AWS)
-
-- Containerization - Docker, Docker-Compose
-
-- Container Orchestration - Microk8s, Kubernetes
-
-- Programming Languages: Python 3.8, Go 1.15, YAML, HCL(Hashicorp), Bash
-
-  
 **Development Environment**
 
 * OS: Ubuntu Focal Fossa, WSL2(for prototyping)
