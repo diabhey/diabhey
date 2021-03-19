@@ -11,7 +11,7 @@ I enjoy designing and building cloud native software solutions. </p>
 
 * OS: Ubuntu Focal Fossa, WSL2(for prototyping)
 * Editor: VS Code, Typora(Markdown)
-* Terminal: Terminator
+* Terminal: Terminator + Zsh + Oh My Zsh
 
 
 I use Github to host my hobby projects(mostly private for the moment).
