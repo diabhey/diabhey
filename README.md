@@ -1,7 +1,5 @@
 <h2> Hi, I'm Abhi!</h2>
-<p><em>Lead Software Engineer at <a href="https://www.onerahealth.com/">Onera Health(Medical Startup).</a>
-  
-I enjoy designing and building cloud native software solutions. </p>
+<p> Exploring the digital troposhere</p>
 
 **Daily Tech Stack**
 
