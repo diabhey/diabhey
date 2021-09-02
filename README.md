@@ -1,9 +1,6 @@
 <h2> Hi, I'm Abhi!</h2>
 <p> Exploring the digital troposhere</p>
 
-**Daily Tech Stack**
-
-<img src="tech-stack.png" alt="drawing" width="500"/>
 
 **Development Environment**
 
