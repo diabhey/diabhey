@@ -1,14 +1,6 @@
 <h2> Hi, I'm Abhi!</h2>
 <p> Exploring the digital troposhere</p>
 
-
-**Development Environment**
-
-* OS: Ubuntu Focal Fossa, WSL2(for prototyping)
-* Editor: VS Code, Typora(Markdown)
-* Terminal: Terminator + Zsh + Oh My Zsh
-
-
 I use Github to host my hobby projects(mostly private for the moment).
 
 ![Abhi's GitHub stats](https://github-readme-stats.vercel.app/api?username=diabhey&count_private=true&show_icons=true&theme=radical)   
