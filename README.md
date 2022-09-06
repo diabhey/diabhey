@@ -1,6 +1,6 @@
 <h2> Hi, I'm Abhi!</h2>
 
-Developer Advocate {🥑} @RedKubes | Exploring the digital troposphere |
+Developer Advocate {🥑} | Exploring the digital troposphere
 
 **Let's connect**
 * [![Linkedin: abhi](https://img.shields.io/badge/-abhimanyuselvan-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/abhimanyuselvan/)](https://www.linkedin.com/in/abhimanyuselvan/)
