@@ -1,6 +1,6 @@
 <h2> Hi, I'm Abhi!</h2>
 
-Developer Advocate {🥑} | Exploring the digital troposphere
+I am a Sr. Developer Advocate {🥑} @digitalocean | I am a tech evangelist exploring the cloud-native realm with a primary focus on Developer Experience and Kubernetes (I try to combine both)!
 
 **Let's connect**
 * [![Linkedin: abhi](https://img.shields.io/badge/-abhimanyuselvan-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/abhimanyuselvan/)](https://www.linkedin.com/in/abhimanyuselvan/)
