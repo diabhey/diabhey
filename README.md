@@ -7,4 +7,4 @@ I am a Sr. Developer Advocate {🥑} @digitalocean | I am a tech evangelist expl
 * [![Twitter: diabhey](https://img.shields.io/twitter/follow/diabhey?style=social)](https://twitter.com/diabhey)
 * [![GitHub diabhey](https://img.shields.io/github/followers/diabhey?label=follow&style=social)](https://github.com/diabhey)
 
-![Abhi's GitHub stats](https://github-readme-stats.vercel.app/api?username=diabhey&count_private=true&show_icons=true&theme=radical)   
+  ![Abhi's GitHub stats](https://github-readme-stats.vercel.app/api?username=diabhey&count_private=true&show_icons=true&theme=tokyonight)  
