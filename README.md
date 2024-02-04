@@ -1,5 +1,4 @@
 <h2> Hi, I'm Abhi!</h2>
 
-- Developer Relations {🥑} [@digitalocean](https://www.digitalocean.com/) 
-- Tech evangelist exploring the cloud-native realm with a primary focus on Developer Experience
+- Developer Relations [@digitalocean](https://www.digitalocean.com/) 
 - I enjoy building and breaking things [@hivenetes](https://github.com/hivenetes)
